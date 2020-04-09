@@ -68,6 +68,8 @@ string:test1
   value:0
 string:lastdanotify
   value:0
+string:inactiveslayer
+  value:0
 string:bane6
   value:0
 string:bite
